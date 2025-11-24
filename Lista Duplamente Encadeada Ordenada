@@ -52,7 +52,7 @@ int main()
 {
     no *primeira;
     int n;
-    printf("Criando uma lista encadeada\n");
+    printf("Criando uma lista duplamente encadeada\n");
     do{
         printf("\nEntre com o número de nós:");
         scanf("%d",&n);
